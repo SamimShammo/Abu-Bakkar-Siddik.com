@@ -60,7 +60,7 @@
         transition: all 0.6s ease 0s;
         color: tomato;
         background-image: none;
-        padding: 10px 40px;
+    
         border-radius: 5px;
         border: 1px solid tomato;
     }
@@ -137,7 +137,6 @@
         transition: all 0.6s ease 0s;
         color: tomato;
         background-image: none;
-        padding: 10px 40px;
         border-radius: 5px;
         border: 1px solid tomato;
     }
@@ -282,7 +281,6 @@
          transition: all 0.6s ease 0s;
          color: tomato;
          background-image: none;
-         padding: 10px 40px;
          border-radius: 5px;
          border: 1px solid tomato;
      }
@@ -359,7 +357,6 @@
          transition: all 0.6s ease 0s;
          color: tomato;
          background-image: none;
-         padding: 10px 40px;
          border-radius: 5px;
          border: 1px solid tomato;
      }
@@ -510,7 +507,6 @@
          transition: .6s;
          color: tomato;
          background-image: none;
-         padding: 10px 40px;
          border-radius: 5px;
          border: 1px solid tomato;
      }
@@ -595,7 +591,6 @@
          transition: .6s;
          color: tomato;
          background-image: none;
-         padding: 10px 40px;
          border-radius: 5px;
          border: 1px solid tomato;
      }
