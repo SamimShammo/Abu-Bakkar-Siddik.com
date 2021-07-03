@@ -1,0 +1,182 @@
+body{
+    margin: 0;
+    font-family: 'Poppins', sans-serif;
+}
+h1{
+    margin-bottom: 0;
+    font-size: 48px;
+    font-weight: 600;
+}
+/* banner section satrt  */
+.top-banner{
+    display: flex;
+    background-image: url(../img/top-banner.png);
+    background-repeat: no-repeat;
+    margin-bottom: 100px;
+}
+.welcome{
+    margin-left: 5%;
+    width: 50%;
+}
+.welcome h3{
+    font-weight: 600;
+}
+.welcome .wel-p{
+    margin-bottom: 40px;
+    color: dimgray;
+    font-weight: 400;
+}
+.welcome img{
+    margin-top: 20px;
+    width: 90%;
+}
+.name-color{
+    color: #FFA500;
+}
+.hire-btn{
+    
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.hire-btn:hover{
+    transition: .6s;
+    color:  tomato;
+    background-image: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    border: 1px solid tomato;
+}
+/* banner section end  */
+/* dream-big section satrt  */
+.dream-big{
+    display: flex;
+    background-image: url(../img/dream-bg.png);
+    background-repeat: no-repeat;
+    background-position: right;
+}
+.dream{
+    width: 50%;
+    margin-left: 7%;
+}
+.dream img{
+    text-align: center;
+    width: 90%;
+}
+.dream h1{
+    font-weight: 500;
+    font-size: 44px;
+}
+.dream h2{
+    font-weight: 600;
+}
+.dream p{
+    color: dimgrey;
+}
+
+
+.dream-2{
+
+}
+.dream-2{
+    margin-top: 20px;
+    width: 50%;
+    margin-left: 5%;
+    margin-right: 7%;
+}
+
+.dream-2 h1{
+    font-weight: 500;
+    font-size: 45px;
+}
+.dream-2 h2{
+    font-weight: 600;
+}
+.dream-2 p{
+    color: dimgrey;
+    margin-bottom: 40px;
+}
+
+.download{
+    
+    text-decoration: none;
+    color: white;
+    background-image: linear-gradient(lightsalmon, tomato);
+    padding: 10px 40px;
+    border-radius: 5px;
+}
+.download:hover{
+    transition: .6s;
+    color:  tomato;
+    background-image: none;
+    padding: 10px 40px;
+    border-radius: 5px;
+    border: 1px solid tomato;
+}
+/* dream-big section end  */
+/* experience section start  */
+.experience{
+margin-bottom: 150px;
+ background-image: url(../img/exp-bg.png);
+ background-repeat: no-repeat;
+ background-position-y: 250px;
+
+}
+.experience .expe{
+    text-align: center;
+    margin-bottom: 50px;
+}
+.expe_content{
+    display: flex;
+
+}
+.expe_item{
+    width: 45%;
+    margin-left: 5%;
+    box-shadow: 5px 7px 40px grey;
+    padding: 30px;
+    border-left: 8px solid;
+    border-image: linear-gradient( lightsalmon,tomato );
+    border-image-slice: 1;
+}
+.expe_item h1{
+    font-size: 38px;
+
+}
+.expe_item h3{
+    color: orange;
+}
+.expe_item p{
+    margin-bottom: 70px;
+    margin-top: 20px;
+    color: dimgray;
+}
+.expe_item2{
+    width: 45%;
+    margin-left: 5%;
+    margin-right: 5%;
+    box-shadow: 5px 7px 40px grey;
+    padding: 30px;
+    border-left: 8px solid;
+    border-image: linear-gradient( blue, cyan );
+    border-image-slice: 1;
+}
+.expe_item2 h1{
+    font-size: 38px;
+}
+.expe_item2 h3{
+    color: orange;
+}
+.expe_item2 p{
+    margin-bottom: 70px;
+    color: dimgray;
+    margin-top: 20px;
+}
+/* experience section end  */
+
+footer P{
+    text-align: center;
+    color: dimgray;
+}
